@@ -4,7 +4,7 @@
 
 > Project developed during programming language classes II, this project will be used as a criterion for evaluating the subject.
 
-## Author
+## Authors
 
 👤 **Eduardo Alves Leonardo**
 
