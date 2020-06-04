@@ -9,18 +9,22 @@
 👤 **Eduardo Alves Leonardo**
 
 * Github: [@ed-leonardo](https://github.com/ed-leonardo)
+* RA: 082170006
 
 👤 **João Victor Viera de Andrade**
 
 * Github: [@joaovieira23](https://github.com/joaovieira23)
+* RA: 082170018
 
 👤 **Jonathan Citolino**
 
 * Github: [@Citolino](https://github.com/Citolino)
+* RA: 082170019
 
 👤 **William Stófel da Mota**
 
 * Github: [@WilliamStofel](https://github.com/WilliamStofel)
+* RA: 082170033
 
 ## Instructor 
 
